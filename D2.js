@@ -57,7 +57,13 @@ if (num5 === 8 || num6 != 8) {
   Crea un algoritmo che determini l'ammontare totale che deve essere addebitato all'utente per il checkout.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+const shoppingCart [
+  10,
+  20,
+  20,
+  15,
+]
+
 
 /* ESERCIZIO 6
   Stai lavorando su un sito di e-commerce. Oggi è il Black Friday e viene applicato il 20% su ogni prodotto.
